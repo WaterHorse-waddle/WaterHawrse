@@ -1,5 +1,5 @@
 # 💫 About Me:
-Engineerins student with a keen interest in computer programming. I know web dev and web designing with a strong hold of languages like C, HTML/CSS, JS, Python and NumPy. I aim at learning more on web development and knowing about machine learning(deep learning).
+Engineering student with a keen interest in computer programming. I know web dev and web designing with a strong hold of languages like C, HTML/CSS, JS, Python and NumPy. I aim at learning more on web development and knowing about machine learning and agentic AI.
 
 
 ## 🌐 Socials:
